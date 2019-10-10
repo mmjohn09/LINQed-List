@@ -1,0 +1,11 @@
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list.deps.json
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list.runtimeconfig.json
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list.runtimeconfig.dev.json
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list.dll
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/bin/Debug/netcoreapp3.0/linq-list.pdb
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/obj/Debug/netcoreapp3.0/linq-list.csprojAssemblyReference.cache
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/obj/Debug/netcoreapp3.0/linq-list.AssemblyInfoInputs.cache
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/obj/Debug/netcoreapp3.0/linq-list.AssemblyInfo.cs
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/obj/Debug/netcoreapp3.0/linq-list.dll
+/Users/maggie/workspace/csharp/exercises/LINQ/linq-list/obj/Debug/netcoreapp3.0/linq-list.pdb
