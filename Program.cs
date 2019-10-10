@@ -16,7 +16,7 @@ namespace linq_list
 
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("Fruits that start with 'L':");
-            Console.WriteLine("------------------------------------");
+            Console.WriteLine("-----------------------------------");
             foreach (string fruit in LFruits)
             {
                 Console.WriteLine(fruit);
@@ -32,7 +32,7 @@ namespace linq_list
 
             Console.WriteLine("-----------------------------------");
             Console.WriteLine("Numbers divisible by 4 or 6:");
-            Console.WriteLine("------------------------------------");
+            Console.WriteLine("-----------------------------------");
             foreach (int num in fourSixMultiples)
             {
                 Console.WriteLine(num);
@@ -56,6 +56,21 @@ namespace linq_list
             foreach (string name in descend)
             {
                 Console.WriteLine(name);
+            }
+
+            // Build a collection of these numbers sorted in ascending order
+            List<int> otherNumbers = new List<int>()
+            {
+                15, 8, 21, 24, 32, 13, 30, 12, 7, 54, 48, 4, 49, 96
+            };
+
+            List<int> ascendingNums = otherNumbers.OrderBy(num => num).ToList();
+            Console.WriteLine("-----------------------------------");
+            Console.WriteLine("Numbers ascending:");
+            Console.WriteLine("-----------------------------------");
+            foreach (int num in ascendingNums)
+            {
+                Console.WriteLine(num);
             }
 
         }
