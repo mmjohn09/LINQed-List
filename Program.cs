@@ -123,7 +123,7 @@ namespace linq_list
             List<int> numsBeforeSquare = wheresSquaredo.TakeWhile(num => Math.Sqrt(num) % 1 !=0).ToList();
             
             Console.WriteLine("-----------------------------------");
-            Console.WriteLine("Highest Price:");
+            Console.WriteLine("Numbers til square:");
             Console.WriteLine("-----------------------------------");
 
             foreach (int num in numsBeforeSquare)
